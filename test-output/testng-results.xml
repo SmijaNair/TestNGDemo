@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2019-06-20T09:15:27Z" finished-at="2019-06-20T09:15:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2019-06-20T09:15:27Z" finished-at="2019-06-20T09:15:27Z">
+      <class name="Test.day5">
+        <test-method status="PASS" signature="method1(java.lang.String, java.lang.String)[pri:0, instance:Test.day5@215be6bb]" name="method1" duration-ms="8" started-at="2019-06-20T09:15:27Z" data-provider="getData" finished-at="2019-06-20T09:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Smija]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nair]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String, java.lang.String)[pri:0, instance:Test.day5@215be6bb]" name="method1" duration-ms="1" started-at="2019-06-20T09:15:27Z" data-provider="getData" finished-at="2019-06-20T09:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method1(java.lang.String, java.lang.String)[pri:0, instance:Test.day5@215be6bb]" name="method1" duration-ms="1" started-at="2019-06-20T09:15:27Z" data-provider="getData" finished-at="2019-06-20T09:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhupia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- Test.day5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
